@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97)]
 <h1 align="center">Hi 👋, I'm Piyush Prakash</h1>
-<h3 align="center">Data Analyst with expertise in data cleansing, data mining, statistical analysis, predictive modelling, and visualization, competent with a variety of tools.Interpersonal skilled and a strong communication, adept at working with cross-functional teams and presenting results to stakeholders.</h3>
+<h3 align="center">I'm a Data Analyst with expertise in data cleansing, data mining, statistical analysis, predictive modelling, and visualization, competent with a variety of tools.Interpersonal skilled and a strong communication, adept at working with cross-functional teams and presenting results to stakeholders.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47ofkpgp9mw7n1xwx9dl6108axvp159qy0ncjd62v8&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
